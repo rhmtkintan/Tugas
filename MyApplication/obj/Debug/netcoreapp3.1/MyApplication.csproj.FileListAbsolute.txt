@@ -1,0 +1,19 @@
+C:\Users\MUHAMMAD AL FARRABI\MyApplication\bin\Debug\netcoreapp3.1\MyApplication.exe
+C:\Users\MUHAMMAD AL FARRABI\MyApplication\bin\Debug\netcoreapp3.1\MyApplication.deps.json
+C:\Users\MUHAMMAD AL FARRABI\MyApplication\bin\Debug\netcoreapp3.1\MyApplication.runtimeconfig.json
+C:\Users\MUHAMMAD AL FARRABI\MyApplication\bin\Debug\netcoreapp3.1\MyApplication.runtimeconfig.dev.json
+C:\Users\MUHAMMAD AL FARRABI\MyApplication\bin\Debug\netcoreapp3.1\MyApplication.dll
+C:\Users\MUHAMMAD AL FARRABI\MyApplication\bin\Debug\netcoreapp3.1\MyApplication.pdb
+C:\Users\MUHAMMAD AL FARRABI\MyApplication\obj\Debug\netcoreapp3.1\MyApplication.csprojAssemblyReference.cache
+C:\Users\MUHAMMAD AL FARRABI\MyApplication\obj\Debug\netcoreapp3.1\MyApplication.AssemblyInfoInputs.cache
+C:\Users\MUHAMMAD AL FARRABI\MyApplication\obj\Debug\netcoreapp3.1\MyApplication.AssemblyInfo.cs
+C:\Users\MUHAMMAD AL FARRABI\MyApplication\obj\Debug\netcoreapp3.1\MyApplication.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMAD AL FARRABI\MyApplication\obj\Debug\netcoreapp3.1\MyApplication.dll
+C:\Users\MUHAMMAD AL FARRABI\MyApplication\obj\Debug\netcoreapp3.1\MyApplication.pdb
+C:\Users\MUHAMMAD AL FARRABI\MyApplication\obj\Debug\netcoreapp3.1\MyApplication.genruntimeconfig.cache
+C:\Users\ACER\Downloads\MyApplication\obj\Debug\netcoreapp3.1\MyApplication.csprojAssemblyReference.cache
+C:\Users\ACER\Downloads\MyApplication\obj\Debug\netcoreapp3.1\MyApplication.AssemblyInfoInputs.cache
+C:\Users\ACER\Downloads\MyApplication\obj\Debug\netcoreapp3.1\MyApplication.AssemblyInfo.cs
+C:\Users\ACER\Downloads\MyApplication\obj\Debug\netcoreapp3.1\MyApplication.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Downloads\MyApplication\obj\Debug\netcoreapp3.1\MyApplication.dll
+C:\Users\ACER\Downloads\MyApplication\obj\Debug\netcoreapp3.1\MyApplication.pdb
